@@ -301,31 +301,18 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 🙏 Acknowledgments
 
-- [Hugging Face](https://huggingface.co/) for amazing AI models
-- [Streamlit](https://streamlit.io/) for the beautiful framework
-- [Salesforce](https://github.com/salesforce/BLIP) for BLIP model
-- The open-source community
 
----
 
-## 📧 Contact
-
-For questions, suggestions, or issues:
-
-- **GitHub Issues:** [Create an issue](https://github.com/yourusername/social-mood-matcher/issues)
-- **Email:** your.email@example.com
-
----
 
 <div align="center">
 
 **Made with ❤️ using Streamlit & Hugging Face Transformers**
 
-⭐ Star this repo if you find it helpful!
+
 
 </div>
+
 
 
 
