@@ -33,12 +33,12 @@
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](![Screenshot_8-3-2026_153525_localhost](https://github.com/user-attachments/assets/428f3414-3050-4ac5-8cb8-46eb7d5a970f)
-)
+![Main Interface](assets/screenshot_main.png))
+
 
 ### Results Display
-![Results](![Screenshot_8-3-2026_153554_localhost](https://github.com/user-attachments/assets/856e9592-03e3-487c-b51e-0b66028f5366)
-)
+![Results](assets/screenshot_results.png)
+
 
 ---
 
@@ -340,6 +340,7 @@ For questions, suggestions, or issues:
 ⭐ Star this repo if you find it helpful!
 
 </div>
+
 
 
 
