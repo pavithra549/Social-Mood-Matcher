@@ -10,22 +10,22 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 **Social Mood Matcher** is an end-to-end AI application that analyzes images (scenery or food), detects their sentiment/vibe, and generates engaging social media captions with trending 2024 hashtags. The application ensures all output fits within platform character limits (Twitter/X, Instagram, Facebook).
 
 ### Key Features
 
-- 🎭 **Image Sentiment Detection** - Analyzes images to infer mood (cozy, happy, aesthetic, calm, luxury, adventurous, etc.)
-- ✍️ **Smart Caption Generation** - Creates engaging captions in multiple styles (casual, aesthetic, professional, playful)
-- #️⃣ **Trending Hashtag Engine** - Curated 2024 hashtags organized by category and sentiment
-- 📏 **Character Limiting** - Smart truncation for Twitter/X (280 chars), Instagram, and Facebook
-- 🎨 **Beautiful UI** - Modern, responsive Streamlit interface
-- 🚀 **Production Ready** - Modular architecture, error handling, and deployment-ready
+-  **Image Sentiment Detection** - Analyzes images to infer mood (cozy, happy, aesthetic, calm, luxury, adventurous, etc.)
+-  **Smart Caption Generation** - Creates engaging captions in multiple styles (casual, aesthetic, professional, playful)
+- #️ **Trending Hashtag Engine** - Curated 2024 hashtags organized by category and sentiment
+-  **Character Limiting** - Smart truncation for Twitter/X (280 chars), Instagram, and Facebook
+-  **Beautiful UI** - Modern, responsive Streamlit interface
+-  **Production Ready** - Modular architecture, error handling, and deployment-ready
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```mermaid
 graph TD
@@ -73,7 +73,7 @@ social-mood-matcher/
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -116,7 +116,7 @@ copy .env.example .env
 
 ---
 
-## 💻 Usage
+##  Usage
 
 ### Running the Application
 
@@ -130,7 +130,7 @@ The application will open in your default browser at `http://localhost:8501`
 
 1. **Upload Image** - Click "Browse files" and select an image (JPG, PNG, WEBP)
 2. **Configure Settings** - Choose caption style, platform, and number of hashtags in the sidebar
-3. **Generate** - Click "🚀 Generate Caption & Hashtags"
+3. **Generate** - Click " Generate Caption & Hashtags"
 4. **Copy & Share** - Copy the generated content and paste it on your social media!
 
 ### Caption Styles
@@ -148,7 +148,7 @@ The application will open in your default browser at `http://localhost:8501`
 
 ---
 
-## 🧠 AI Models
+## AI Models
 
 The application uses the following Hugging Face models:
 
@@ -162,7 +162,7 @@ The application uses the following Hugging Face models:
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 Run the test suite:
 
@@ -178,7 +178,7 @@ pytest tests/test_pipeline.py --cov=. --cov-report=html
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 ### Streamlit Cloud (Recommended)
 
@@ -219,7 +219,7 @@ The application can be deployed on any cloud platform that supports Python and S
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 ### Environment Variables
 
@@ -251,7 +251,7 @@ Edit `config/settings.py` to customize:
 
 ---
 
-## 📊 Performance
+##  Performance
 
 - **First Run:** ~30-60 seconds (model loading)
 - **Subsequent Runs:** ~3-5 seconds per image
@@ -265,7 +265,7 @@ Edit `config/settings.py` to customize:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] Multiple caption variants with A/B testing
 - [ ] Download caption as .txt file
@@ -290,6 +290,7 @@ Edit `config/settings.py` to customize:
 
 
 </div>
+
 
 
 
