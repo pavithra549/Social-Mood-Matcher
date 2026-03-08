@@ -7,9 +7,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.31-red)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-**Production-ready Streamlit application for generating AI-powered social media captions with sentiment detection and trending hashtags.**
 
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Architecture](#architecture) • [Deployment](#deployment)
 
 </div>
 
@@ -328,6 +326,7 @@ For questions, suggestions, or issues:
 ⭐ Star this repo if you find it helpful!
 
 </div>
+
 
 
 
