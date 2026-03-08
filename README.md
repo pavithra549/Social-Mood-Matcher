@@ -31,7 +31,7 @@
 ---
 
 ## 📸 Screenshots
-
+Added project output screenshot
 ### Main Interface
 ![Main Interface](assets/screenshot_main.png)
 
@@ -338,3 +338,4 @@ For questions, suggestions, or issues:
 ⭐ Star this repo if you find it helpful!
 
 </div>
+
