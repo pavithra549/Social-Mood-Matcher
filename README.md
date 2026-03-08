@@ -33,7 +33,7 @@
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](assets/screenshot_main.png))
+![Main Interface](assets/screenshot_main.png)
 
 
 ### Results Display
@@ -340,6 +340,7 @@ For questions, suggestions, or issues:
 ⭐ Star this repo if you find it helpful!
 
 </div>
+
 
 
 
